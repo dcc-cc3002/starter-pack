@@ -72,6 +72,12 @@ Para sistemas basados en Debian (como Ubuntu), deben ejecutar:
 sudo apt install git-all
 ```
 
+En el caso de sistemas basados en Arch (como Manjaro), el comando necesario es:
+
+```bash
+sudo pacman -S git
+```
+
 ### Windows
 
 Asumiendo que tienen *Chocolatey* instalado, desde *PowerShell* como administrador 
